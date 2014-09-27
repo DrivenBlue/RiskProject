@@ -3,9 +3,10 @@ RiskProject
 Created by David Wang, Steven Barrett, Joe Bishop 
 
 Attention! This game is playable but it does not have a lot of the features of a real risk game. There are no boundaries so 
-you can attack anywhere. There is no incentive to controlling more territories beside being closer to victory (no extra soldiers).
-The resolution page also needs a fix and music needs to be added.
-This is a numbers game that incorporates two dice into a random number generator in order to conclude battles. 
+you can attack anywhere. There is no incentive to controlling more territories besides being closer to victory (no extra soldiers).
+The resolution options also need a fix and music needs to be added.
+Random dice generation is done through a bubble sort in an attempt to emulate actual risk games. The attacker will have one more
+dice than the defender. More comments in the source code. 
 
 This is a version of the board game risk. The UI features a Start, Help, and Options button upon opening the application. There 
 are also two backgrounds that randomly display during the start menu.
