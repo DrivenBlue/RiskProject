@@ -19,6 +19,6 @@ Options: The options allow for the player to set how many players they will play
 only PVP. There is also an option on "rounds before adding armies," and "How many soldiers to add per round." At the very bottom
 is an option to change the resolution of the screen size, though it is not yet operable so I would not use it. 
 
-Help: This page has a button that leads to the Risk wikipedia game.
+Help: This page has a button that leads to the Risk wikipedia game. 
 
 
