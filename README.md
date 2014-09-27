@@ -1,6 +1,6 @@
 RiskProject
 ===========
-Created by David Wang, Steven Barett
+Created by David Wang, Steven Barett 
 
 Attention! This game is playable but it does not have a lot of the features of a real risk game. There are no boundaries so 
 you can attack anywhere. There is no incentive to controlling more territories beside being closer to victory (no extra soldiers).
