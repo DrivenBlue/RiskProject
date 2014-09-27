@@ -24,3 +24,5 @@ is an option to change the resolution of the screen size, though it is not yet o
 Help: This page has a button that leads to the Risk wikipedia game. 
 
 
+
+
